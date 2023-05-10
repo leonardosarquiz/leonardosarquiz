@@ -15,7 +15,7 @@
 <img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
 </div>
 
-## ÚltimoS projetos desenvolvidos:
+## Últimos projetos desenvolvidos:
 - [Site para academia - projeto pessoal](https://leonardosarquiz.github.io/academia/)<br/>
 - [Site para psicóloga - projeto pessoal](https://leonardosarquiz.github.io/academia/)<br/>
 - [Projeto desenvolvido com Bootstrap junto com o curso a Origamid]( https://leonardosarquiz.github.io/caravan-bootstrap/)<br/>
