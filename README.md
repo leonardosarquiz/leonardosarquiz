@@ -17,7 +17,7 @@
 
 ## Últimos projetos desenvolvidos:
 - [Site para academia - projeto pessoal](https://leonardosarquiz.github.io/academia/)<br/>
-- [Site para psicóloga - projeto pessoal](https://leonardosarquiz.github.io/)<br/>
+- [Site para psicóloga - projeto freelancer](https://leonardosarquiz.github.io/)<br/>
 - [Projeto desenvolvido com Bootstrap junto com o curso a Origamid]( https://leonardosarquiz.github.io/caravan-bootstrap/)<br/>
 - [Projeto desenvolvido com React junto com o curso a Origamid]( https://leonardosarquiz.github.io/calcudadoraIMC/)<br/>
 - [Projeto Desenvolvido com HTML, CSS, PHP e banco de dados]( https://youtu.be/ydjtJpojNlw )<br/>
