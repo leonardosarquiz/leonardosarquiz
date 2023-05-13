@@ -16,11 +16,14 @@
 </div>
 
 ## Últimos projetos desenvolvidos:
+- [Site clone Netflix - projeto com React e API](https://leonardosarquiz.github.io/netflix-react/)<br/>
 - [Site para academia - projeto pessoal](https://leonardosarquiz.github.io/academia/)<br/>
 - [Site para psicóloga - projeto freelancer](https://leonardosarquiz.github.io/)<br/>
 - [Projeto desenvolvido com Bootstrap junto com o curso da Origamid]( https://leonardosarquiz.github.io/caravan-bootstrap/)<br/>
 - [Projeto desenvolvido com React]( https://leonardosarquiz.github.io/calcudadoraIMC/)<br/>
 - [Projeto Desenvolvido com HTML, CSS, PHP e banco de dados]( https://youtu.be/ydjtJpojNlw )<br/>
 - [Projeto Desenvolvido com HTML, CSS e Javascript](https://leonardosarquiz.github.io/Cadastro-cartao/)<br/>
+
+
 
 
