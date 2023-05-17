@@ -16,6 +16,7 @@
 </div>
 
 ## Últimos projetos desenvolvidos:
+- [Site com funcionalidades de usuário - projeto com React e Typescript](https://leonardosarquiz.github.io/user/)<br/>
 - [Site clone Netflix - projeto com React e API](https://leonardosarquiz.github.io/netflix-react/)<br/>
 - [Site para academia - projeto pessoal](https://leonardosarquiz.github.io/academia/)<br/>
 - [Site para psicóloga - projeto freelancer](https://leonardosarquiz.github.io/)<br/>
