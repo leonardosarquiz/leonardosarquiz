@@ -16,14 +16,14 @@
 </div>
 
 ## Últimos projetos desenvolvidos:
-- [Site com funcionalidades de usuário - projeto com React e Typescript](https://leonardosarquiz.github.io/user/)<br/>
-- [Site clone Netflix - projeto com React e API](https://leonardosarquiz.github.io/netflix-react/)<br/>
-- [Site para academia - projeto pessoal](https://leonardosarquiz.github.io/academia/)<br/>
-- [Site para psicóloga - projeto freelancer](https://leonardosarquiz.github.io/)<br/>
-- [Projeto desenvolvido com Bootstrap junto com o curso da Origamid]( https://leonardosarquiz.github.io/caravan-bootstrap/)<br/>
-- [Projeto desenvolvido com React]( https://leonardosarquiz.github.io/calcudadoraIMC/)<br/>
-- [Projeto Desenvolvido com HTML, CSS, PHP e banco de dados]( https://youtu.be/ydjtJpojNlw )<br/>
-- [Projeto Desenvolvido com HTML, CSS e Javascript](https://leonardosarquiz.github.io/Cadastro-cartao/)<br/>
+- [Projeto com funcionalidades de usuário [React e Typescript]](https://leonardosarquiz.github.io/user/)<br/>
+- [Projeto clone Netflix [React e API]](https://leonardosarquiz.github.io/netflix-react/)<br/>
+- [Projeto para academia [HTML, CSS e Javascript]](https://leonardosarquiz.github.io/academia/)<br/>
+- [Projeto para psicóloga [HTML, CSS e Javascript]](https://leonardosarquiz.github.io/)<br/>
+- [Projeto Caravan [Bootstrap]]( https://leonardosarquiz.github.io/caravan-bootstrap/)<br/>
+- [Projeto Calculadora [React]]( https://leonardosarquiz.github.io/calcudadoraIMC/)<br/>
+- [Projeto Cadastro [HTML, CSS, PHP e banco de dados]]( https://youtu.be/ydjtJpojNlw )<br/>
+- [Projeto Cadastro Cartão [HTML, CSS e Javascript]](https://leonardosarquiz.github.io/Cadastro-cartao/)<br/>
 
 
 
