@@ -16,6 +16,7 @@
 </div>
 
 ## Últimos projetos desenvolvidos:
+- [Projeto pessoal com requisição API [React e Typescript]](https://leonardosarquiz.github.io/tech-ia/)<br/>
 - [Projeto com funcionalidades de usuário [React e Typescript]](https://leonardosarquiz.github.io/user/)<br/>
 - [Projeto clone Netflix [React e API]](https://leonardosarquiz.github.io/netflix-react/)<br/>
 - [Projeto para academia [HTML, CSS e Javascript]](https://leonardosarquiz.github.io/academia/)<br/>
