@@ -16,6 +16,7 @@
 </div>
 
 ## Últimos projetos desenvolvidos:
+- [Projeto Ignite-Shop com requisição API [React e Next]](https://github.com/leonardosarquiz/ignite-shop)<br/>
 - [Projeto pessoal com requisição API [React e Typescript]](https://leonardosarquiz.github.io/tech-ia/)<br/>
 - [Projeto com funcionalidades de usuário [React e Typescript]](https://leonardosarquiz.github.io/user/)<br/>
 - [Projeto clone Netflix [React e API]](https://leonardosarquiz.github.io/netflix-react/)<br/>
