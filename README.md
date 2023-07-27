@@ -16,6 +16,7 @@
 </div>
 
 ## Últimos projetos desenvolvidos:
+- [Projeto construção de API Rest [Node.Js E Typescript]](https://github.com/leonardosarquiz/API-node)<br/>
 - [Projeto Ignite-Shop com requisição API [React, Next e Typescript]](https://github.com/leonardosarquiz/ignite-shop)<br/>
 - [Projeto pessoal com requisição API [React e Typescript]](https://leonardosarquiz.github.io/tech-ia/)<br/>
 - [Projeto com funcionalidades de usuário [React e Typescript]](https://leonardosarquiz.github.io/user/)<br/>
@@ -26,6 +27,7 @@
 - [Projeto Calculadora [React]]( https://leonardosarquiz.github.io/calcudadoraIMC/)<br/>
 - [Projeto Cadastro [HTML, CSS, PHP e banco de dados]]( https://youtu.be/ydjtJpojNlw )<br/>
 - [Projeto Cadastro Cartão [HTML, CSS e Javascript]](https://leonardosarquiz.github.io/Cadastro-cartao/)<br/>
+
 
 
 
