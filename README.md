@@ -15,8 +15,12 @@
 <img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
 </div>
 
-## Últimos projetos desenvolvidos:
+## Últimos projetos desenvolvidos!
+## Projetos Back-End:
 - [Projeto construção de API Rest [Node.Js e Typescript]](https://github.com/leonardosarquiz/API-node)<br/>
+- [Projeto construção de API Rest [Node.Js e Typescript]](https://github.com/leonardosarquiz/api-node-project)<br/>
+
+## Projetos Front-End:
 - [Projeto Ignite-Shop com requisição API [React, Next e Typescript]](https://ignite-shop-1x6e.vercel.app/?vercelToolbarCode=gVrfj9ds0dM3Miy)<br/>
 - [Projeto pessoal com requisição API [React e Typescript]](https://leonardosarquiz.github.io/tech-ia/)<br/>
 - [Projeto com funcionalidades de usuário [React e Typescript]](https://leonardosarquiz.github.io/user/)<br/>
@@ -25,8 +29,10 @@
 - [Projeto para psicóloga [HTML, CSS e Javascript]](https://leonardosarquiz.github.io/)<br/>
 - [Projeto Caravan [Bootstrap]]( https://leonardosarquiz.github.io/caravan-bootstrap/)<br/>
 - [Projeto Calculadora [React]]( https://leonardosarquiz.github.io/calcudadoraIMC/)<br/>
-- [Projeto Cadastro [HTML, CSS, PHP e banco de dados]](https://github.com/leonardosarquiz/cadastro )<br/>
 - [Projeto Cadastro Cartão [HTML, CSS e Javascript]](https://leonardosarquiz.github.io/Cadastro-cartao/)<br/>
+
+## Projeto Full-Stack:
+- [Projeto Cadastro [HTML, CSS, PHP e banco de dados]](https://github.com/leonardosarquiz/cadastro )<br/>
 
 
 
