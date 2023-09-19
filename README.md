@@ -31,7 +31,7 @@
 - [Projeto Calculadora [React]]( https://leonardosarquiz.github.io/calcudadoraIMC/)<br/>
 - [Projeto Cadastro Cartão [HTML, CSS e Javascript]](https://leonardosarquiz.github.io/Cadastro-cartao/)<br/>
 
-## Projeto Full-Stack:
+## Projetos Full-Stack:
 - [Projeto Cadastro [HTML, CSS, PHP e banco de dados]](https://github.com/leonardosarquiz/cadastro )<br/>
 
 
