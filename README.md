@@ -18,6 +18,8 @@
 
 ## Últimos projetos desenvolvidos!
 ## Projetos Back-End:
+
+- [Projeto conceito DDD [Node.Js]](https://github.com/leonardosarquiz/api-DDD)<br/>
 - [Projeto construção de API Rest [Java e Spring Boot]](https://github.com/leonardosarquiz/project-java)<br/>
 - [Projeto construção de API Solid [Node.Js, Typescript e Prisma]](https://github.com/leonardosarquiz/api-solid-23)<br/>
 - [Projeto construção de API Rest [Node.Js e Typescript]](https://github.com/leonardosarquiz/API-node)<br/>
