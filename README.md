@@ -26,8 +26,8 @@
 - [Projeto construção de API Rest [Node.Js e Typescript]](https://github.com/leonardosarquiz/api-node-project)<br/>
 
 ## Projetos Front-End:
-- [Projeto Ignite-Shop com requisição API [React, Next e Typescript]](https://ignite-shop-1x6e.vercel.app/?vercelToolbarCode=gVrfj9ds0dM3Miy)<br/>
 - [Projeto pessoal com requisição API [React e Typescript]](https://leonardosarquiz.github.io/tech-ia/)<br/>
+- [Projeto Ignite-Shop com requisição API [React, Next e Typescript]](https://ignite-shop-1x6e.vercel.app/?vercelToolbarCode=gVrfj9ds0dM3Miy)<br/>
 - [Projeto com funcionalidades de usuário [React e Typescript]](https://leonardosarquiz.github.io/user/)<br/>
 - [Projeto clone Netflix [React e API]](https://leonardosarquiz.github.io/netflix-react/)<br/>
 - [Projeto para academia [HTML, CSS e Javascript]](https://leonardosarquiz.github.io/academia/)<br/>
