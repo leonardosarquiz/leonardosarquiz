@@ -24,6 +24,7 @@
 - [Projeto construção de API Solid [Node.Js, Typescript e Prisma]](https://github.com/leonardosarquiz/api-solid-23)<br/>
 - [Projeto construção de API Rest [Node.Js e Typescript]](https://github.com/leonardosarquiz/API-node)<br/>
 - [Projeto construção de API Rest [Node.Js e Typescript]](https://github.com/leonardosarquiz/api-node-project)<br/>
+- [Projeto Full-Stack [PHP e MySQL]](https://github.com/leonardosarquiz/project-php)<br/>
 
 ## Projetos Front-End:
 - [Projeto pessoal com requisição API [React e Typescript]](https://leonardosarquiz.github.io/tech-ia/)<br/>
