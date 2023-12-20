@@ -29,7 +29,7 @@
 - [Projeto construção de API Rest [Node.Js e Typescript]](https://github.com/leonardosarquiz/API-node)<br/>
 - [Projeto construção de API Rest [Node.Js e Typescript]](https://github.com/leonardosarquiz/api-node-project)<br/>
 - [Projeto Full-Stack [PHP e MySQL]](https://github.com/leonardosarquiz/project-php)<br/>
-- [Projeto Full-Stack [PHP e MySQL]](https://github.com/leonardosarquiz/moviestar-php)<br/>
+- [Projeto Cadastro de filmes Full-Stack [PHP e MySQL]](https://github.com/leonardosarquiz/moviestar-php)<br/>
 
 ## Projetos Front-End:
 - [Projeto pessoal com requisição API [React e Typescript]](https://leonardosarquiz.github.io/tech-ia/)<br/>
