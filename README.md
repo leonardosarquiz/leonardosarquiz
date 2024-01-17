@@ -45,5 +45,6 @@
 
 
 ## Projetos Mobile:
+- [Projeto para restaurante [React Native e Typescript]](https://github.com/leonardosarquiz/pizzaria-mobile)<br/>
 - [Projeto Cadastro de Pessoas [React Native e Typescript]](https://github.com/leonardosarquiz/React-native)<br/>
 - [Projeto Cadastro de turmas [React Native e Typescript]](https://github.com/leonardosarquiz/project_teams)<br/>
