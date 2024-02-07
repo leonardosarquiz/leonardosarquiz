@@ -22,6 +22,7 @@
 
 ## Últimos projetos desenvolvidos!
 ## Projetos Back-End:
+- [Projeto CRUD ASP.NET MVC [.NET e SQL SERVER]](https://github.com/leonardosarquiz/net-2)<br/>
 - [Projeto construção de API Rest [Java e Spring Boot]](https://github.com/leonardosarquiz/gestao_vagas)<br/>
 - [Projeto construção de API Rest [Java e Spring Boot]](https://github.com/leonardosarquiz/project-java)<br/>
 - [Projeto conceito DDD [Node.Js]](https://github.com/leonardosarquiz/api-DDD)<br/>
